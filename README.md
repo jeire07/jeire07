@@ -3,7 +3,7 @@ I am working on developing a c# application that inspects the functionality of t
 
 - 👀 I am very interested in what I am doing now and the field of game development
 
-- 🌱 I'm using C# to improve my application now, and when I'm less busy, I'm studying C++. However, I'm not busy, and I'm not interested in studying C# continuously
+- 🌱 
 
 - 💞️ I’m looking to collaborate...
 
