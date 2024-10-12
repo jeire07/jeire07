@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeire07,
-I'm working on a program to verify the functionality of a product.
+I am working on developing a c# application that inspects the functionality of the manufactured product.
 
 - 👀 I am very interested in what I am doing now and the field of game development
 
